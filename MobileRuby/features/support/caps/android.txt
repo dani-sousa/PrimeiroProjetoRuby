@@ -1,0 +1,6 @@
+[caps]
+automationName = "UiAutomator2"
+platformName = "Android"
+deviceName = "Android Emulator"
+app = "/Users/cristianoassis/loteriasCaixa/loterias/app/hmp-1.0.47.7.apk"
+opts = "http://127.0.0.1:4723/wd/hub"
